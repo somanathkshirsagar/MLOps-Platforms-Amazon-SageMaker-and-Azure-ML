@@ -14,7 +14,7 @@ If you're wondering what process to use to evaluate MLOps platforms, see the [Th
 
 The matrix an open format of categories with links to vendor documentation within cells to highlight features. This lets vendors do things their own ways and helps readers find the detail they need.
 
-### Comparison Matrix
+### Comparison Matrix 
 
 We suggest to click through to the [master spreadsheet in google sheets](https://docs.google.com/spreadsheets/d/1nRqjnD7SCMJGmYR2gdZJ84YolLnHAMJwjSG7z7VcM6c/edit?usp=sharing):
 
