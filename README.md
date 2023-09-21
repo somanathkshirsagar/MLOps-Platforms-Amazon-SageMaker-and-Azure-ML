@@ -4,7 +4,7 @@ MLOps is an especially confusing landscape with [hundreds of tools available](ht
 
 Understanding MLOps platforms is complex. Platforms have their own specializations and there is no clear line between a tool (with a narrow focus) and a platform (which supports many ML lifecycle activities). The below (from [the Thoughtworks Guide to MLOps Platforms](https://www.thoughtworks.com/what-we-do/data-and-ai/cd4ml/guide-to-evaluating-mlops-platforms)) illustrates how some of the platforms specialize in particular areas (bottom) and others aim to cover the whole lifecycle with equal focus (top):
  
-![MLOps Landscape Diagram](images/whitepaper_MLOps_Landscape.png)   
+![MLOps Landscape Diagram](images/whitepaper_MLOps_Landscape.png) c  
 
 Even platforms that have a similar scope have different concepts and strategies, making them hard to compare directly. This repository provides resources for evaluating MLOps platforms.
 
