@@ -1,4 +1,4 @@
-## MLOps Platforms         
+## MLOps Platforms           
      
 MLOps is an especially confusing landscape with [hundreds of tools available](https://huyenchip.com/2020/12/30/mlops-v2.html). This project helps to navigate the space of MLOps platforms. 
 
